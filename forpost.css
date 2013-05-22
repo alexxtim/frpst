@@ -1,0 +1,97 @@
+.context {
+	background-color:#0F9;
+	width:800px;
+	-moz-box-shadow: 0 0 30px 5px #9ff;
+	-webkit-box-shadow: 0 0 30px 5px #9ff
+}
+.header {background-image:url("img/solder.jpg");
+background-position: 0px -170px;
+height:350px;
+}
+
+.central { 
+	background-image:url('img/darkwood.jpg');
+	-moz-box-shadow: 0 0 30px 5px #9ff;
+	-webkit-box-shadow: 0 0 30px 5px #9ff;
+}
+
+.menu {
+	padding-left: 20px;
+	padding-top:100px;
+	height:50px;
+	vertical-align:bottom;
+	color:#FFF;
+	text-transform:uppercase;
+}
+
+.menu a:link {color:#6FF; text-decoration:none;}      /* unvisited link */
+.menu a:visited {color:#6FF; text-decoration:none;}  /* visited link */
+.menu a:hover {color:#FFF; }  /* mouse over link */
+.menu a:active {color:#6FF; text-decoration:none;}  /* selected link */
+
+.menuitem
+{
+	float:left;	
+	padding-left:30px;
+}
+
+.footer {
+	height:40px;
+	color:#FFF;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:9px;
+}
+
+.content {
+	text-align:justify;
+	padding: 0px 50px 50px 50px;
+	color:#CCC;
+}
+
+.gameorder {
+color:#F00;
+}
+
+.cell {
+	color:#FF0;
+}
+
+.headerinfo {
+	text-align:center;
+	padding-left:400px;
+	padding-top:30px;
+	width:200px;
+}
+
+.forpostimage
+{
+	position:absolute;
+	left:400px;
+	top:270px;	
+	z-index:100;
+}
+
+.body
+{
+	background-color:#999;
+}
+
+.content {
+	 font-family:Georgia, "Times New Roman", Times, serif;
+	 font-size:medium;
+	 
+}
+
+
+{
+	color:#FFF;
+}
+
+.currentmenuitem a:link {color:#FFF; text-decoration:none;}      /* unvisited link */
+.currentmenuitem a:visited {color:#FFF; text-decoration:none;}  /* visited link */
+.currentmenuitem a:active {color:#FFF; text-decoration:none;}  /* selected link */
+
+.redtext
+{
+	color:#F00;
+}
