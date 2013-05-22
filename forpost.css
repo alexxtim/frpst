@@ -16,8 +16,8 @@ height:350px;
 }
 
 .menu {
+	margin-top:-70px;
 	padding-left: 20px;
-	padding-top:100px;
 	height:50px;
 	vertical-align:bottom;
 	color:#FFF;
@@ -65,9 +65,8 @@ color:#F00;
 
 .forpostimage
 {
-	position:absolute;
-	left:400px;
-	top:270px;	
+	position:relative;
+	top:-100px;	
 	z-index:100;
 }
 
